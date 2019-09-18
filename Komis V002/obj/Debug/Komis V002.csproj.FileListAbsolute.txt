@@ -1,0 +1,45 @@
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\obj\Debug\Komis V002.csprojAssemblyReference.cache
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\obj\Debug\Komis_V002.Form1.resources
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\obj\Debug\Komis_V002.Form2.resources
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\obj\Debug\Komis_V002.Properties.Resources.resources
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\obj\Debug\Komis V002.csproj.GenerateResource.cache
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\obj\Debug\Komis V002.csproj.CoreCompileInputs.cache
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\bin\Debug\Komis V002.exe.config
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\bin\Debug\Komis V002.exe
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\bin\Debug\Komis V002.pdb
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\bin\Debug\MySql.Data.dll
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\bin\Debug\Google.Protobuf.dll
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\bin\Debug\MySql.Data.xml
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\obj\Debug\Komis V002.csproj.CopyComplete
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\obj\Debug\Komis V002.exe
+C:\Users\Mirek\source\repos\Komis V002\Komis V002\obj\Debug\Komis V002.pdb
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\bin\Debug\Komis V002.exe.config
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\bin\Debug\Komis V002.exe
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\bin\Debug\Komis V002.pdb
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\bin\Debug\MySql.Data.dll
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\bin\Debug\Google.Protobuf.dll
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\bin\Debug\MySql.Data.xml
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.csprojAssemblyReference.cache
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\obj\Debug\Komis_V002.Form1.resources
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\obj\Debug\Komis_V002.Form2.resources
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\obj\Debug\Komis_V002.Properties.Resources.resources
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.csproj.GenerateResource.cache
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.csproj.CoreCompileInputs.cache
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.csproj.CopyComplete
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.exe
+C:\Users\Mirek\source\repos\Starsze\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.pdb
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\bin\Debug\Komis V002.exe.config
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\bin\Debug\Komis V002.exe
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\bin\Debug\Komis V002.pdb
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\bin\Debug\MySql.Data.dll
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\bin\Debug\Google.Protobuf.dll
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\bin\Debug\MySql.Data.xml
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.csprojAssemblyReference.cache
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\obj\Debug\Komis_V002.Form1.resources
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\obj\Debug\Komis_V002.Form2.resources
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\obj\Debug\Komis_V002.Properties.Resources.resources
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.csproj.GenerateResource.cache
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.csproj.CoreCompileInputs.cache
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.csproj.CopyComplete
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.exe
+C:\Users\Mirek\Desktop\oddany\Komis V002 zaliczony\Komis V002\obj\Debug\Komis V002.pdb
